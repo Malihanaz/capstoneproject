@@ -1,0 +1,8 @@
+D:\simplilearn phase4\capstone  project web api\BlogTrackerAPI\BlogTrackerMVC\obj\Debug\net6.0\BlogTrackerMVC.csproj.AssemblyReference.cache
+D:\simplilearn phase4\capstone  project web api\BlogTrackerAPI\BlogTrackerMVC\obj\Debug\net6.0\BlogTrackerMVC.GeneratedMSBuildEditorConfig.editorconfig
+D:\simplilearn phase4\capstone  project web api\BlogTrackerAPI\BlogTrackerMVC\obj\Debug\net6.0\BlogTrackerMVC.AssemblyInfoInputs.cache
+D:\simplilearn phase4\capstone  project web api\BlogTrackerAPI\BlogTrackerMVC\obj\Debug\net6.0\BlogTrackerMVC.AssemblyInfo.cs
+D:\simplilearn phase4\capstone  project web api\BlogTrackerAPI\BlogTrackerMVC\obj\Debug\net6.0\BlogTrackerMVC.csproj.CoreCompileInputs.cache
+D:\simplilearn phase4\capstone  project web api\BlogTrackerAPI\BlogTrackerMVC\obj\Debug\net6.0\BlogTrackerMVC.MvcApplicationPartsAssemblyInfo.cache
+D:\simplilearn phase4\capstone  project web api\BlogTrackerAPI\BlogTrackerMVC\obj\Debug\net6.0\BlogTrackerMVC.RazorAssemblyInfo.cache
+D:\simplilearn phase4\capstone  project web api\BlogTrackerAPI\BlogTrackerMVC\obj\Debug\net6.0\BlogTrackerMVC.RazorAssemblyInfo.cs
